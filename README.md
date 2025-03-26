@@ -37,9 +37,10 @@ This dataset enables **comprehensive candidate evaluation** by analyzing multipl
 - **Security & Privacy**: Complied with **data protection standards**, ensuring privacy compliance.  
 
 ### **SIMULATION**
-Shortlisted reumes
+##Shortlisted reumes
 ![image](https://github.com/user-attachments/assets/2d2897a3-ae79-4b07-a5b0-daf53b1eb304)
-Adding weights
+
+##Adding weights
 ![image](https://github.com/user-attachments/assets/ef7544db-2c9e-4909-8bc8-1802f2e93ebf)
 
 
