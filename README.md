@@ -29,6 +29,17 @@ This dataset enables **comprehensive candidate evaluation** by analyzing multipl
 - **User-Friendly Interface**: Intuitive design for easy job matching.  
 - **Explainable AI**: Provides insights into candidate rankings.  
 
+## **📈 Results**  
+- **Resume Parsing**: Achieved accurate results using **BERT and NLP models**.  
+- **Candidate Matching**: Implemented weighted criteria for improved **job-candidate relevance**.  
+- **Gemini vs BERT**: **BERT outperformed Gemini**, improving context understanding and ranking accuracy.  
+- **Candidate Ranking**: Customizable ranking based on **recruiter-defined priorities**, enhancing decision-making.  
+- **Security & Privacy**: Complied with **data protection standards**, ensuring privacy compliance.  
+
+### **SIMULATION**
+![image](https://github.com/user-attachments/assets/2d2897a3-ae79-4b07-a5b0-daf53b1eb304)
+![image](https://github.com/user-attachments/assets/ef7544db-2c9e-4909-8bc8-1802f2e93ebf)
+
 
 ## **📜 License**
 This project is open-source and available under the **MIT License**.  
